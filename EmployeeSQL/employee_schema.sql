@@ -52,4 +52,5 @@ CREATE TABLE salaries (
 emp_no INT(10) NOT NULL,
 salary INT NOT NULL,
 FOREIGN KEY (emp_no) REFERENCES Employees(emp_no)
+PRIMARY KEY (salary)
 );
