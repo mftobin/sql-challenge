@@ -12,3 +12,5 @@ List the first name, last name, and hire date for the employees who were hired i
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 -- referenced joining_bird_bands_solution
 
+TabNine AI assist is installed on my VSC and was used for reference when completing this assignment.
+
